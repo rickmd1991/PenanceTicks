@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: PenanceTicks
+## Notes: Simple 1-2-3 tick counter for timing channels
+## Author: Loci
+## Version: 1.0
+## SavedVariables: PenanceTicksDB
+
+PenanceTicks.lua
